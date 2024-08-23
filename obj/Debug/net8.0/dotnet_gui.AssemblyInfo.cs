@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet_gui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7085076a4a94e70a4c73e38a5797a57c28560b0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet_gui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet_gui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
