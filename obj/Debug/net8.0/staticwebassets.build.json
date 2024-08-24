@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "Hash": "wK2cKE8+h2jkmMCEUUOZQL6Z1pFVlySS9Ejdq3R8UK0=",
-  "Source": "dotnet_gui",
-  "BasePath": "_content/dotnet_gui",
+  "Hash": "5R6Pg4gSqnZ23TKZxag7bT5x39ULzE5dUS2gBX/tnQs=",
+  "Source": "csharp_gui_app",
+  "BasePath": "_content/csharp_gui_app",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "dotnet_gui/wwwroot",
-      "Source": "dotnet_gui",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/wwwroot/",
-      "BasePath": "_content/dotnet_gui",
+      "Name": "csharp_gui_app\\wwwroot",
+      "Source": "csharp_gui_app",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\",
+      "BasePath": "_content/csharp_gui_app",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/bundle/dotnet_gui.styles.css",
-      "SourceId": "dotnet_gui",
+      "Identity": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\csharp_gui_app.styles.css",
+      "SourceId": "csharp_gui_app",
       "SourceType": "Computed",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/bundle/",
-      "BasePath": "_content/dotnet_gui",
-      "RelativePath": "dotnet_gui.styles.css",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/csharp_gui_app",
+      "RelativePath": "csharp_gui_app.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/bundle/dotnet_gui.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\bundle\\csharp_gui_app.styles.css"
     },
     {
-      "Identity": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/projectbundle/dotnet_gui.bundle.scp.css",
-      "SourceId": "dotnet_gui",
+      "Identity": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\csharp_gui_app.bundle.scp.css",
+      "SourceId": "csharp_gui_app",
       "SourceType": "Computed",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/projectbundle/",
-      "BasePath": "_content/dotnet_gui",
-      "RelativePath": "dotnet_gui.bundle.scp.css",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/csharp_gui_app",
+      "RelativePath": "csharp_gui_app.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,14 +52,14 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/projectbundle/dotnet_gui.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\csharp_gui_app.bundle.scp.css"
     },
     {
-      "Identity": "/home/seth/Desktop/dotnet_gui/wwwroot/app.css",
-      "SourceId": "dotnet_gui",
+      "Identity": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\app.css",
+      "SourceId": "csharp_gui_app",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/wwwroot/",
-      "BasePath": "_content/dotnet_gui",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\",
+      "BasePath": "_content/csharp_gui_app",
       "RelativePath": "app.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -71,14 +71,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/app.css"
+      "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "/home/seth/Desktop/dotnet_gui/wwwroot/bootstrap/bootstrap.min.css",
-      "SourceId": "dotnet_gui",
+      "Identity": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "csharp_gui_app",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/wwwroot/",
-      "BasePath": "_content/dotnet_gui",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\",
+      "BasePath": "_content/csharp_gui_app",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -90,14 +90,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "/home/seth/Desktop/dotnet_gui/wwwroot/bootstrap/bootstrap.min.css.map",
-      "SourceId": "dotnet_gui",
+      "Identity": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "csharp_gui_app",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/wwwroot/",
-      "BasePath": "_content/dotnet_gui",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\",
+      "BasePath": "_content/csharp_gui_app",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -109,14 +109,14 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/seth/Desktop/dotnet_gui/wwwroot/favicon.png",
-      "SourceId": "dotnet_gui",
+      "Identity": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\favicon.png",
+      "SourceId": "csharp_gui_app",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/seth/Desktop/dotnet_gui/wwwroot/",
-      "BasePath": "_content/dotnet_gui",
+      "ContentRoot": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\",
+      "BasePath": "_content/csharp_gui_app",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -128,7 +128,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.png"
+      "OriginalItemSpec": "wwwroot\\favicon.png"
     }
   ]
 }

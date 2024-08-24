@@ -1,24 +1,18 @@
 ﻿@page "/tictactoe"
 @rendermode InteractiveServer
-
-<PageTitle>Tic Tac Toe</PageTitle>
-
 <h3>TicTacToe</h3>
 
 <table>
-    @for(int i = 0; i < 3; i++){
+    @for (int i = 0; i< 3; i++){
         <tr>
             @for(int j = 0; j < 3; j++){
-                <th>@GetSymbol(game, (i*3) + j)</th>
+                <th>@symbol</th>
             }
         </tr>
     }
 </table>
 
 @code {
-    private TicTacToe game = new();
-    private char GetSymbol(TicTacToe game, int index) {
-        return game.squares[index].Symbol;
-    }
+    string symbol = "X";
 
 }

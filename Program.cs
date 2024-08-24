@@ -1,4 +1,4 @@
-using dotnet_gui.Components;
+using csharp_gui_app.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
