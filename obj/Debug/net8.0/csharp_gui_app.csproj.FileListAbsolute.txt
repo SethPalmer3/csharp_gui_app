@@ -28,3 +28,4 @@ C:\Users\Redux\csharp_gui_app\obj\Debug\net8.0\refint\csharp_gui_app.dll
 C:\Users\Redux\csharp_gui_app\obj\Debug\net8.0\csharp_gui_app.pdb
 C:\Users\Redux\csharp_gui_app\obj\Debug\net8.0\csharp_gui_app.genruntimeconfig.cache
 C:\Users\Redux\csharp_gui_app\obj\Debug\net8.0\ref\csharp_gui_app.dll
+C:\Users\Redux\csharp_gui_app\obj\Debug\net8.0\scopedcss\Components\Pages\TicTacToe.razor.rz.scp.css

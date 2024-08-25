@@ -1,0 +1,18 @@
+.container[b-nmztgh827l] {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	grid-gap: 10px;
+	width: 300px;
+	height: 300px;
+}
+
+.cell[b-nmztgh827l] {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: #f5f5f5;
+	cursor: pointer;
+}
