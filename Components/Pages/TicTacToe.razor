@@ -17,7 +17,7 @@
 </div>
 }
 else {
-	<h3> Player @symbol won </h3>
+	<h3 class="win"> Player @symbol won! </h3>
 }
 
 @code {
@@ -27,15 +27,14 @@ else {
 	bool win = false;
 	List<char> squares = new List<char> { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' };
 	private void handleClick(int index) {
-		Console.WriteLine(index);
+		if (squares[index] != ' ') return;
+		squares[index] = symbol;
 		if (checkWin(squares)) {
 			winner = symbol;
 			win = true;
 			Console.WriteLine("win");
 			return;
 		}
-		if (squares[index] != ' ') return;
-		squares[index] = symbol;
 		symbol = symbol == 'X' ? 'O' : 'X';
 	}
 	private bool checkWin(List<char> squares) {
