@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp_gui_app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3510696ddaef0b88e8d1536aebba32a228f5dcda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed4c81f601301f568091d1b8af08a6544309a351")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp_gui_app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp_gui_app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

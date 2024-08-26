@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AnwyS98Kindg81pSGNSLlM8dnZBiwXcoU4KP9T/ACZCSgzE0J8CRi4OeSSp4gVAUDGeAjMtWcn8z3Nk0K5xz6w==",
+  "dgSpecHash": "HGU+moQysrw=",
   "success": true,
-  "projectFilePath": "/home/seth/Desktop/dotnet_gui/csharp_gui_app.csproj",
+  "projectFilePath": "C:\\Users\\Redux\\csharp_gui_app\\csharp_gui_app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

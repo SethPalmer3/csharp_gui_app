@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "/home/seth/Desktop/dotnet_gui/obj/Debug/net8.0/scopedcss/projectbundle/csharp_gui_app.bundle.scp.css",
-      "PackagePath": "staticwebassets/csharp_gui_app.bundle.scp.css"
+      "Id": "C:\\Users\\Redux\\csharp_gui_app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\csharp_gui_app.bundle.scp.css",
+      "PackagePath": "staticwebassets\\csharp_gui_app.bundle.scp.css"
     },
     {
-      "Id": "/home/seth/Desktop/dotnet_gui/wwwroot/app.css",
-      "PackagePath": "staticwebassets/app.css"
+      "Id": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "/home/seth/Desktop/dotnet_gui/wwwroot/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+      "Id": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/home/seth/Desktop/dotnet_gui/wwwroot/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/home/seth/Desktop/dotnet_gui/wwwroot/favicon.png",
-      "PackagePath": "staticwebassets/favicon.png"
+      "Id": "C:\\Users\\Redux\\csharp_gui_app\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.csharp_gui_app.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.csharp_gui_app.props",
       "PackagePath": "build\\csharp_gui_app.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.csharp_gui_app.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.csharp_gui_app.props",
       "PackagePath": "buildMultiTargeting\\csharp_gui_app.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.csharp_gui_app.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.csharp_gui_app.props",
       "PackagePath": "buildTransitive\\csharp_gui_app.props"
     },
     {
-      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.csharp_gui_app.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.csharp_gui_app.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],
